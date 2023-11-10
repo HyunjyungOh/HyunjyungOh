@@ -1,6 +1,6 @@
 <h1> Hello! Nice to see you:) </h1>
 
-<p>Welcome to my page! </br> I'm <b>Hyunjyung Oh</b> and my research focus lies on Income Mobility and  </p>
+<p>Welcome to my page! </br> I'm <b>Hyunjyung Oh</b> and my research interests are mainly on social interactions, gender equality, and income mobility. </p>
 <h3>Things I code with</h3>
 <p>
 <img alt="visualstudiocode" src="https://img.shields.io/badge/-visualstudiocode-F007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />  
